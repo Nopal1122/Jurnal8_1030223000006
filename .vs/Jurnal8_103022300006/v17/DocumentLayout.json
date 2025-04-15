@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|solutionrelative:jurnal8_103022300006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|d:\\jurnal8_103022300006\\jurnal8_103022300006\\bank_transfer_config.json||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|solutionrelative:jurnal8_103022300006\\bank_transfer_config.json||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|d:\\jurnal8_103022300006\\jurnal8_103022300006\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|solutionrelative:jurnal8_103022300006\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|d:\\jurnal8_103022300006\\jurnal8_103022300006\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|solutionrelative:jurnal8_103022300006\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|d:\\jurnal8_103022300006\\jurnal8_103022300006\\jurnal8_103022300006.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFE20233-5700-4D46-8BB6-3203428E8AF4}|Jurnal8_103022300006\\Jurnal8_103022300006.csproj|solutionrelative:jurnal8_103022300006\\jurnal8_103022300006.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\Program.cs",
+              "RelativeDocumentMoniker": "Jurnal8_103022300006\\Program.cs",
+              "ToolTip": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\Program.cs",
+              "RelativeToolTip": "Jurnal8_103022300006\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:41:14.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jurnal8_103022300006",
+              "DocumentMoniker": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\Jurnal8_103022300006.csproj",
+              "RelativeDocumentMoniker": "Jurnal8_103022300006\\Jurnal8_103022300006.csproj",
+              "ToolTip": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\Jurnal8_103022300006.csproj",
+              "RelativeToolTip": "Jurnal8_103022300006\\Jurnal8_103022300006.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T01:06:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "Jurnal8_103022300006\\bank_transfer_config.json",
+              "ToolTip": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\bank_transfer_config.json",
+              "RelativeToolTip": "Jurnal8_103022300006\\bank_transfer_config.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T01:06:50.446Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -36,35 +80,9 @@
               "RelativeDocumentMoniker": "Jurnal8_103022300006\\BankTransferConfig.cs",
               "ToolTip": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\BankTransferConfig.cs",
               "RelativeToolTip": "Jurnal8_103022300006\\BankTransferConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T23:54:57.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bank_transfer_config.json",
-              "DocumentMoniker": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\bank_transfer_config.json",
-              "RelativeDocumentMoniker": "Jurnal8_103022300006\\bank_transfer_config.json",
-              "ToolTip": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\bank_transfer_config.json",
-              "RelativeToolTip": "Jurnal8_103022300006\\bank_transfer_config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-14T23:42:46.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\Program.cs",
-              "RelativeDocumentMoniker": "Jurnal8_103022300006\\Program.cs",
-              "ToolTip": "D:\\Jurnal8_103022300006\\Jurnal8_103022300006\\Program.cs",
-              "RelativeToolTip": "Jurnal8_103022300006\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:41:14.832Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,16 @@
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.AssemblyInfoInputs.cache
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.AssemblyInfo.cs
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.csproj.CoreCompileInputs.cache
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.sourcelink.json
+D:\Jurnal8_103022300006\Jurnal8_103022300006\bin\Debug\net8.0\Jurnal8_103022300006.exe
+D:\Jurnal8_103022300006\Jurnal8_103022300006\bin\Debug\net8.0\Jurnal8_103022300006.deps.json
+D:\Jurnal8_103022300006\Jurnal8_103022300006\bin\Debug\net8.0\Jurnal8_103022300006.runtimeconfig.json
+D:\Jurnal8_103022300006\Jurnal8_103022300006\bin\Debug\net8.0\Jurnal8_103022300006.dll
+D:\Jurnal8_103022300006\Jurnal8_103022300006\bin\Debug\net8.0\Jurnal8_103022300006.pdb
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.dll
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\refint\Jurnal8_103022300006.dll
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.pdb
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\Jurnal8_103022300006.genruntimeconfig.cache
+D:\Jurnal8_103022300006\Jurnal8_103022300006\obj\Debug\net8.0\ref\Jurnal8_103022300006.dll
+D:\Jurnal8_103022300006\Jurnal8_103022300006\bin\Debug\net8.0\bank_transfer_config.json
